@@ -1,5 +1,5 @@
 # Author: CRS 9/21/21
-currentStatesPop = 332774929
+currentStatesPop = 331832432
 ratePerMin = 60 / 25
 ratePerHour = ratePerMin * 60
 ratePerDay = ratePerHour * 24
