@@ -3,3 +3,5 @@ width = 13.9
 height = 8.2
 perimeter = width + width + height + height
 print(perimeter)
+area = width * height
+print(area)
